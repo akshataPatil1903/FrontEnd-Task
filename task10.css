@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.box{
+   height: 240px;
+    width: 300px;
+   
+    margin: 10px;
+    padding: 30px 10px;
+    text-align: center;
+}
+
+i{
+    font-size: 50px;
+    padding-top: 20px;
+}
+h3{
+    padding: 20px;
+}
